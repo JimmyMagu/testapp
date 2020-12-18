@@ -7,4 +7,9 @@ pipeline {
             }
         }
     }
+    stages {
+        stage() {
+            //
+        }
+    }
 }
